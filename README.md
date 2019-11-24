@@ -19,6 +19,14 @@
 
 Тема курсового проекта: Построение модели визуализации рельефа.
 
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L4_01_A0.png)
+
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L4_02_A0.png)
+
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L4_03_A3.png)
+
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L4_04_A32.png)
+
 ## Лабораторная 5
 
 ## Лабораторная 6
