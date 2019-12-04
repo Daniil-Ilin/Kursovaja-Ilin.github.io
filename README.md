@@ -25,9 +25,9 @@
 
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/03_A2-2.png)
 
-![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/04_A3.png)
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/04_A3-2.png)
 
-![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/05_A31.png)
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/05_A31-2.png)
 
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/06_A32.png)
 
