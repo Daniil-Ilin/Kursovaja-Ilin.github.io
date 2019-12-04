@@ -23,7 +23,7 @@
 
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/02_A0.png)
 
-![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/)
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/03_A2-2.png)
 
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/04_A3.png)
 
