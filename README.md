@@ -33,11 +33,19 @@
 
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-1.png)
 
+[Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-1.txt)
+
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-2.png)
+
+[Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-2.txt)
 
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-3.png)
 
+[Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-3.txt)
+
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-4.png)
+
+[Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-4.txt)
 
 ## Лабораторная 5
 
