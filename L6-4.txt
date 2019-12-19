@@ -1,0 +1,28 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+
+class Module as "Программный модуль"
+
+
+class Mod1 as "Блок распаковки данных"
+class Mod2 as "Блок преобразования точек"
+class Mod3 as "Блок формирования точек"
+class Mod4 as "Блок формирования сплайнов"
+class Mod5 as "Блок интерполирования данных"
+
+
+
+Module <|-- Mod1
+Module <|-- Mod2
+Module <|-- Mod3
+Module <|-- Mod4
+Module <|-- Mod5
+
+hide members
+hide circle
+hide methods
+@enduml
