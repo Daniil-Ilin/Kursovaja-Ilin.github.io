@@ -31,6 +31,14 @@
 
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/06_A32.png)
 
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-1.png)
+
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-2.png)
+
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-3.png)
+
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-4.png)
+
 ## Лабораторная 5
 
 ## Лабораторная 6
