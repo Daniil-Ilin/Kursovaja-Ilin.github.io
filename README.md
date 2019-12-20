@@ -19,12 +19,16 @@
 
 Тема курсового проекта: Построение модели визуализации рельефа.
 
+Контекстная диаграмма А0 "Построение модели визуализации рельефа"
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/01_A0.png)
 
+Декомпозиция блока А0
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/02_A0.png)
 
+Декомпозиция блока А1
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/03_A2-2.png)
 
+Декомпозиция блока А2
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/04_A3-2.png)
 
 ## Лабораторная 5
@@ -34,10 +38,10 @@
 * Определение конфигурации программных средств - Встроенные.
 * Определение допустимых видов хранилищ и их размещения - база данных на сервере, память устройства.
 
-Декомпозиция блока А2 "Разработка структуры электроного ресурса"
+Декомпозиция блока А31 "Подготовка данных"
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/05_A31-2.png)
 
-Декомпозиция блока А2 "Разработка структуры электроного ресурса"
+Декомпозиция блока А32 "Применение алгоритма визуализации"
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/06_A32.png)
 
 ## Лабораторная 6
