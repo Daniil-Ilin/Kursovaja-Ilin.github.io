@@ -35,22 +35,22 @@
 
 ## Лабораторная 6
 
-ER-диграммы для всех потоков:
+ER-диграмма для всех потоков:
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-1.png)
 
 [Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-1.txt)
 
-ER-диграммы для всех ролей:
+ER-диграмма для всех ролей:
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-2.png)
 
 [Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-2.txt)
 
-ER-диграммы для всех модулей:
+ER-диграмма для всех модулей:
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-3(2).png)
 
 [Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-3.txt)
 
-ER-диграммы для всех потоков:
+ER-диграмма для всех программных модулей:
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-4.png)
 
 [Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-4.txt)
