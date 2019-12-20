@@ -27,27 +27,35 @@
 
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/04_A3-2.png)
 
+## Лабораторная 5
+
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/05_A31-2.png)
 
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/06_A32.png)
 
-ER-диграммы для всех модулей:
+## Лабораторная 6
 
+ER-диграммы для всех потоков:
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-1.png)
 
 [Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-1.txt)
 
+ER-диграммы для всех ролей:
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-2.png)
 
 [Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-2.txt)
 
+ER-диграммы для всех модулей:
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-3(2).png)
 
 [Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-3.txt)
 
+ER-диграммы для всех потоков:
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-4.png)
 
 [Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-4.txt)
+
+## Лабораторная 7
 
 Расчёт трудозатрат на выполнение проекта:
 
@@ -63,8 +71,3 @@ ER-диграммы для всех модулей:
 
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L7-3.png)
 
-## Лабораторная 5
-
-## Лабораторная 6
-
-## Лабораторная 7
