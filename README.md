@@ -33,6 +33,8 @@
 
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-1.png)
 
+ER-диграммы для всех модулей:
+
 [Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-1.txt)
 
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-2.png)
@@ -46,6 +48,16 @@
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-4.png)
 
 [Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-4.txt)
+
+Расчёт трудозатрат на выполнение проекта:
+
+Определение количества функциональных точек:
+
+
+Трудозатраты по FPA IFPUG:
+
+
+Трудозатраты по COCOMO II:
 
 ## Лабораторная 5
 
