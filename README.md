@@ -31,9 +31,9 @@
 
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/06_A32.png)
 
-![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-1.png)
-
 ER-диграммы для всех модулей:
+
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-1.png)
 
 [Ссылка на код](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L6-1.txt)
 
@@ -53,11 +53,15 @@ ER-диграммы для всех модулей:
 
 Определение количества функциональных точек:
 
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L7-1.png)
 
 Трудозатраты по FPA IFPUG:
 
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L7-2.png)
 
 Трудозатраты по COCOMO II:
+
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/L7-3.png)
 
 ## Лабораторная 5
 
