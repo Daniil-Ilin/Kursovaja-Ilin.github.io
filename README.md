@@ -23,7 +23,7 @@
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/01_A0.png)
 
 Декомпозиция блока А0
-![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/02_A0.png)
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/02_A0-2.png)
 
 Декомпозиция блока А2 "Обработка"
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/03_A2-3.png)
