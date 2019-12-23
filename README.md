@@ -26,10 +26,10 @@
 ![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/02_A0.png)
 
 Декомпозиция блока А2 "Обработка"
-![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/03_A2-2.png)
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/03_A2-3.png)
 
 Декомпозиция блока А3 "Визуализация"
-![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/04_A3-2.png)
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/04_A3-3.png)
 
 ## Лабораторная 5
 
@@ -39,10 +39,10 @@
 * Определение допустимых видов хранилищ и их размещения - база данных на сервере, память устройства.
 
 Декомпозиция блока А31 "Подготовка данных"
-![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/05_A31-2.png)
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/05_A31-3.png)
 
 Декомпозиция блока А32 "Применение алгоритма визуализации"
-![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/06_A32.png)
+![none](https://github.com/Daniil-Ilin/Kursovaja-Ilin.github.io/blob/master/06_A32-2.png)
 
 ## Лабораторная 6
 
